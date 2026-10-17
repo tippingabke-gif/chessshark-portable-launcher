@@ -2,7 +2,9 @@
 
 建议仓库名称：`chessshark-portable-launcher`。
 
-建议简介：`Windows x64 portable launcher and runtime fixes for supported ChessShark builds.`
+展示标题：`鲨鱼象棋 ChessShark 破解器`。
+
+项目简介：`鲨鱼象棋 ChessShark 破解器：Windows x64 便携启动工具，支持 V2.4.8 / V2.5.3，提供 V2.5.3 整合包。`
 
 仓库代码和文档采用 MIT，根目录已经有 `LICENSE`。首次创建空仓库时，不再自动生成 README、.gitignore 或许可证，以免产生重复的初始内容。
 
