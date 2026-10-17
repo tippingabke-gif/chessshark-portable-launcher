@@ -1,12 +1,17 @@
-# ChessShark Portable Launcher
+# 鲨鱼象棋 ChessShark 破解器
 
 Windows x64 上的 ChessShark 便携启动与运行时修复助手，支持已适配的 V2.4.8、V2.5.3 主程序。助手在选定进程中完成启动状态处理，并在首次棋盘扫描前设置识别参数 `[100, 2]`，解决已定位的扫描除零和越界写入问题。
 
-本仓库包含助手的完整源码与构建配置。使用者自行准备完整 ChessShark 软件目录、引擎和资源。该项目是独立工具，MIT 许可只覆盖本项目自行编写的代码和文档；原软件、商标和第三方依赖各自保留原有权利与许可。
+本仓库包含启动工具的完整源码与构建配置。单独使用助手时，需要完整 ChessShark 软件目录、引擎和资源；也可下载下方的 V2.5.3 整合包。该项目是独立工具，MIT 许可只覆盖本项目自行编写的代码和文档；原软件、商标和第三方依赖各自保留原有权利与许可。
 
 ## 下载
 
-预编译版本见 [GitHub Releases](https://github.com/tippingabke-gif/chessshark-portable-launcher/releases)。下载 `ChessShark-Portable-Launcher-v1.3.0-Windows-x64.zip` 后解压，运行其中的 `ChessShark_便携启动修复.exe`。包内同时提供助手源码、第三方源码与许可证，校验值见同一发布页的 `SHA256SUMS.txt`。
+预编译版本见 [GitHub Releases](https://github.com/tippingabke-gif/chessshark-portable-launcher/releases)。
+
+- **解压即用版**：`ChessShark-V2.5.3-Ready-to-Use-Windows-x64.zip`，包含 V2.5.3 主程序、启动助手、资源、官方 Pikafish 通用引擎与 NNUE，路径已配置为相对路径。
+- **已有原软件**：`ChessShark-Portable-Launcher-v1.3.0-Windows-x64.zip`，仅提供助手及对应源码、许可证材料。
+
+解压完整文件夹后，双击 `ChessShark_便携启动修复.exe`。校验值见同一发布页的 `SHA256SUMS.txt`。原软件与第三方组件不适用本项目 MIT 许可；整合包详情及验证范围见发布说明。
 
 ## 功能与适用范围
 
