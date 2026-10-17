@@ -1,0 +1,44 @@
+# Generated files and Python environments
+/bundle/
+/build/
+/dist/
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Local runtime data, originals and diagnostics
+ChessShark助手数据/
+ChessSharkPortableLauncher/
+/work/
+/evidence/
+/private_config/
+*.exe
+*.dll
+*.bin
+*.dmp
+*.zip
+*.gz
+*.log
+*.jsonl
+*.console.txt
+Config.ini
+Connect.dat
+ConnectUser.dat
+Layout.xml
+settings.json
+last_run.json
+last_error.json
+.env
+.env.*
+*.pem
+*.key
+*.dpapi
+
+# Local tools
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

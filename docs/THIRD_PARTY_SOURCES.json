@@ -1,0 +1,68 @@
+{
+  "release": "v1.3.0",
+  "archives": [
+    {
+      "name": "keystone",
+      "version": "0.9.2",
+      "file": "keystone-0.9.2.zip",
+      "source_url": "https://github.com/keystone-engine/keystone/archive/refs/tags/0.9.2.zip",
+      "sha256": "9cebf492f64b8632d0a0678ca334f266e78978d6873dacfb795c8753d8afb12c",
+      "bytes": 4864683,
+      "upstream_digest_verified": false
+    },
+    {
+      "name": "Python",
+      "version": "3.10.11",
+      "file": "Python-3.10.11.tar.xz",
+      "source_url": "https://www.python.org/ftp/python/3.10.11/Python-3.10.11.tar.xz",
+      "sha256": "3c3bc3048303721c904a03eb8326b631e921f11cc3be2988456a42f115daf04c",
+      "bytes": 19640792,
+      "upstream_digest_verified": false
+    },
+    {
+      "name": "pywin32",
+      "version": "312",
+      "file": "pywin32-312.zip",
+      "source_url": "https://github.com/mhammond/pywin32/archive/refs/tags/b312.zip",
+      "sha256": "fb20b2da00ed53594e96e1bf13c979394b91e874b0284ab18f34ae6e7d471951",
+      "bytes": 5761762,
+      "upstream_digest_verified": false
+    },
+    {
+      "name": "psutil",
+      "version": "7.2.2",
+      "file": "psutil-7.2.2.tar.gz",
+      "source_url": "https://files.pythonhosted.org/packages/aa/c6/d1ddf4abb55e93cebc4f2ed8b5d6dbad109ecb8d63748dd2b20ab5e57ebe/psutil-7.2.2.tar.gz",
+      "sha256": "0746f5f8d406af344fd547f1c8daa5f5c33dbc293bb8d6a16d80b4bb88f59372",
+      "bytes": 493740,
+      "upstream_digest_verified": true
+    },
+    {
+      "name": "pefile",
+      "version": "2024.8.26",
+      "file": "pefile-2024.8.26.tar.gz",
+      "source_url": "https://files.pythonhosted.org/packages/03/4f/2750f7f6f025a1507cd3b7218691671eecfd0bbebebe8b39aa0fe1d360b8/pefile-2024.8.26.tar.gz",
+      "sha256": "3ff6c5d8b43e8c37bb6e6dd5085658d658a7a0bdcd20b6a07b1fcfc1c4e9d632",
+      "bytes": 76008,
+      "upstream_digest_verified": true
+    },
+    {
+      "name": "setuptools",
+      "version": "65.5.0",
+      "file": "setuptools-65.5.0.tar.gz",
+      "source_url": "https://files.pythonhosted.org/packages/c5/41/247814d8b7a044717164c74080725a6c8f3d2b5fc82b34bd825b617df663/setuptools-65.5.0.tar.gz",
+      "sha256": "512e5536220e38146176efb833d4a62aa726b7bbff82cfbc8ba9eaa3996e0b17",
+      "bytes": 2616463,
+      "upstream_digest_verified": true
+    },
+    {
+      "name": "pyinstaller",
+      "version": "6.22.2",
+      "file": "pyinstaller-6.22.2.tar.gz",
+      "source_url": "https://files.pythonhosted.org/packages/cc/2b/836d9def811c02522e0921d8b8cdf0c16b0545a216e97e71041758057859/pyinstaller-6.22.2.tar.gz",
+      "sha256": "89b65a3ad07d9dd5832253e37bc45f31872d10d7f9d5c9fd0fdd6088a83829dd",
+      "bytes": 4092631,
+      "upstream_digest_verified": true
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "code_layout_sha256": "ee454c6d13c541f077d6fd6d864ac53e15124c0d5820fa6a02d881971a287540",
+  "execution_level": "asInvoker",
+  "profile": {
+    "machine": 332,
+    "characteristics": 782,
+    "optional": {
+      "Magic": 267,
+      "AddressOfEntryPoint": 26269140,
+      "ImageBase": 4194304,
+      "SectionAlignment": 4096,
+      "FileAlignment": 512,
+      "SizeOfImage": 26284032,
+      "Subsystem": 2,
+      "DllCharacteristics": 64,
+      "SizeOfStackReserve": 2097152,
+      "SizeOfStackCommit": 16384,
+      "SizeOfHeapReserve": 2097152,
+      "SizeOfHeapCommit": 8192,
+      "LoaderFlags": 0
+    },
+    "directories": [
+      [
+        0,
+        23814476,
+        24017
+      ],
+      [
+        1,
+        23838496,
+        1156
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        5,
+        23814444,
+        16
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        9,
+        23814144,
+        24
+      ],
+      [
+        10,
+        0,
+        0
+      ],
+      [
+        11,
+        0,
+        0
+      ],
+      [
+        12,
+        0,
+        0
+      ],
+      [
+        13,
+        0,
+        0
+      ],
+      [
+        14,
+        0,
+        0
+      ],
+      [
+        15,
+        0,
+        0
+      ]
+    ],
+    "sections": [
+      {
+        "rva": 4096,
+        "virtual_size": 5091328,
+        "characteristics": 3758096448,
+        "raw_size": 1874432,
+        "sha256": "c7c171d0ddeea84b434d9beccf017362595ff0e7ffe0e1fabfaf15ffd63fd2a6"
+      },
+      {
+        "rva": 5095424,
+        "virtual_size": 1011712,
+        "characteristics": 3758096448,
+        "raw_size": 193024,
+        "sha256": "18646b7f20ecfe8562bfc1ed1c638ce6165f751dbece41dbc53e042ab5bfb6eb"
+      },
+      {
+        "rva": 6107136,
+        "virtual_size": 4096,
+        "characteristics": 3758096448,
+        "raw_size": 512,
+        "sha256": "0d5c61aa35786b08e9e957f822b778a5b00e4377efa47f4fc46374d47724d5e7"
+      },
+      {
+        "rva": 6111232,
+        "virtual_size": 4096,
+        "characteristics": 3758096448,
+        "raw_size": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "rva": 6115328,
+        "virtual_size": 20480,
+        "characteristics": 3758096448,
+        "raw_size": 18944,
+        "sha256": "46ffc9b8d0ac47a4191755c5e3eb640e6f1a1b7dbde0c6d8e9bcebbf481bc5cb"
+      },
+      {
+        "rva": 6135808,
+        "virtual_size": 4096,
+        "characteristics": 3758096448,
+        "raw_size": 1536,
+        "sha256": "0c775c2bfbdb3c4bc7e152729c25658334b3c422643ac235e57e55ef5850a7e5"
+      },
+      {
+        "rva": 6139904,
+        "virtual_size": 24576,
+        "characteristics": 3758096448,
+        "raw_size": 20992,
+        "sha256": "cc29decf3bc1261e5960f7b4ba4024685036a56a44af7764e181cee3506f7a4a"
+      },
+      {
+        "rva": 6164480,
+        "virtual_size": 6684672,
+        "characteristics": 3758096448,
+        "raw_size": 6683648,
+        "sha256": "8e2f09a326faaa870443467b5db3912a931db22115d2060b9d8fe87f75b2fdbf"
+      },
+      {
+        "rva": 12849152,
+        "virtual_size": 4096,
+        "characteristics": 3758096448,
+        "raw_size": 512,
+        "sha256": "7b753b743becd94c297e81bc90cd3d3b501d18c394ee82c875ee9a1ba980ab25"
+      },
+      {
+        "rva": 12853248,
+        "virtual_size": 2523136,
+        "characteristics": 3758096448,
+        "raw_size": 2495488,
+        "sha256": "2c028f496f4f1b13247b8a57d2d5bb04eb973e822d205bd60a56b3e3f2428dcf"
+      },
+      {
+        "rva": 15376384,
+        "virtual_size": 344064,
+        "characteristics": 3758096448,
+        "raw_size": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "rva": 15720448,
+        "virtual_size": 69632,
+        "characteristics": 3758096448,
+        "raw_size": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "rva": 15790080,
+        "virtual_size": 69632,
+        "characteristics": 1073741888,
+        "resource_metadata": true
+      },
+      {
+        "rva": 15859712,
+        "virtual_size": 7942144,
+        "characteristics": 3758096448,
+        "raw_size": 13423616,
+        "sha256": "9b462a8c42a783b611b93a3cf80abf01ff255b53411eb9d2fae565eafc4873f1"
+      },
+      {
+        "rva": 23801856,
+        "virtual_size": 2482176,
+        "characteristics": 3758096448,
+        "raw_size": 2482176,
+        "sha256": "999d347fdec89f9ac80cdd9f5be985f39b3b000baedf716a04b572388bf6e37c"
+      }
+    ],
+    "overlay_sha256": "abdf4cd574e88a5e37f7585d4414e3caae940c8746693b707751f915be215f57"
+  }
+}
